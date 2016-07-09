@@ -1,2 +1,1 @@
-out : "hi";
-in : g;
+out : "hi"; 
